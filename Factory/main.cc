@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     Factory* fac = new ConcreteFactory();
-    fac->CreateProduct();
+    Product* p = fac->CreateProduct();
     
     return 0;
 }

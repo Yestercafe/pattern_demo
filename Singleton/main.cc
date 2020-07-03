@@ -3,8 +3,8 @@
 
 int main()
 {
-    Singleton::Instance();
-    Singleton::Instance();
+    Singleton* s = Singleton::Instance();
+    Singleton* s1 = Singleton::Instance();
 
     return 0;
 }

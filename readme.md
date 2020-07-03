@@ -6,9 +6,9 @@ ref: K_Eckel - 《C++设计模式》
 ### 创建型模式 (5)
 - [x] Factory 模式
 - [x] AbstractFactory 模式
-- [ ] Singleton 模式
-- [ ] Builder 模式
-- [ ] Prototype 模式
+- [x] Singleton 模式
+- [x] Builder 模式
+- [x] Prototype 模式
 
 ### 结构型模式 (7)
 - [ ] Bridge 模式
