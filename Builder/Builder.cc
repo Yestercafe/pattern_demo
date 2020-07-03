@@ -17,17 +17,20 @@ ConcreteBuilder::~ConcreteBuilder()
 
 void ConcreteBuilder::BuildPartA(const std::string& buildPara)
 {
-    std::cout << "Step1: build partA..." << std::endl;
+    std::cout << "Step1: build partA..." << std::endl
+              << "buildPara = " << buildPara << std::endl;
 }
 
 void ConcreteBuilder::BuildPartB(const std::string& buildPara)
 {
-    std::cout << "Step1: build partB..." << std::endl;
+    std::cout << "Step1: build partB..." << std::endl
+              << "buildPara = " << buildPara << std::endl;
 }
 
 void ConcreteBuilder::BuildPartC(const std::string& buildPara)
 {
-    std::cout << "Step1: build partC..." << std::endl;
+    std::cout << "Step1: build partC..." << std::endl
+              << "buildPara = " << buildPara << std::endl;
 }
 
 Product* ConcreteBuilder::GetProduct()
