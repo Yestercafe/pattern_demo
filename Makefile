@@ -1,6 +1,6 @@
 cc      := g++
 ccflags := -std=c++11 -W{all,extra}
-target  := Factory AbstractFactory Singleton Builder Prototype
+target  := Factory AbstractFactory Singleton Builder Prototype Bridge
 
 out_dir := bin
 target  := $(addprefix $(out_dir)/,$(target))

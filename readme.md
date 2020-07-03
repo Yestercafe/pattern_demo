@@ -11,7 +11,7 @@ ref: K_Eckel - 《C++设计模式》
 - [x] Prototype 模式
 
 ### 结构型模式 (7)
-- [ ] Bridge 模式
+- [x] Bridge 模式
 - [ ] Adapter 模式
 - [ ] Decorator 模式
 - [ ] Composite 模式
