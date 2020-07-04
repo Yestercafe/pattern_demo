@@ -1,6 +1,7 @@
 cc      := g++
 ccflags := -std=c++11 -W{all,extra}
-target  := Factory AbstractFactory Singleton Builder Prototype Bridge Adapter Decorator Composite
+target  := Factory AbstractFactory Singleton Builder Prototype Bridge Adapter Decorator Composite\
+           Flyweight
 
 out_dir := bin
 target  := $(addprefix $(out_dir)/,$(target))
