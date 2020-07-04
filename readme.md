@@ -13,7 +13,7 @@ ref: K_Eckel - 《C++设计模式》
 ### 结构型模式 (7)
 - [x] Bridge 模式
 - [x] Adapter 模式
-- [ ] Decorator 模式
+- [x] Decorator 模式
 - [ ] Composite 模式
 - [ ] Flyweight 模式
 - [ ] Facade 模式
