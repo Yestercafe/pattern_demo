@@ -16,7 +16,7 @@ ref: K_Eckel - 《C++设计模式》
 - [x] Decorator 模式
 - [x] Composite 模式
 - [x] Flyweight 模式
-- [ ] Facade 模式
+- [x] Facade 模式
 - [ ] Proxy 模式
 
 ### 行为模式 (11)
