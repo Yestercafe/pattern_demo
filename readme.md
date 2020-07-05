@@ -22,7 +22,7 @@ ref: K_Eckel - 《C++设计模式》
 ### 行为模式 (11)
 - [x] Template 模式
 - [x] Strategy 模式
-- [ ] State 模式
+- [x] State 模式
 - [ ] Observer 模式
 - [ ] Memento 模式
 - [ ] Mediator 模式
