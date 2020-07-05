@@ -24,7 +24,7 @@ ref: K_Eckel - 《C++设计模式》
 - [x] Strategy 模式
 - [x] State 模式
 - [x] Observer 模式
-- [ ] Memento 模式
+- [x] Memento 模式
 - [ ] Mediator 模式
 - [ ] Command 模式
 - [ ] Visitor 模式
