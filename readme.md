@@ -20,7 +20,7 @@ ref: K_Eckel - 《C++设计模式》
 - [x] Proxy 模式
 
 ### 行为模式 (11)
-- [ ] Template 模式
+- [x] Template 模式
 - [ ] Strategy 模式
 - [ ] State 模式
 - [ ] Observer 模式
