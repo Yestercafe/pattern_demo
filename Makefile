@@ -1,7 +1,8 @@
 cc      := g++
 ccflags := -std=c++11 -W{all,extra}
 target  := Factory AbstractFactory Singleton Builder Prototype Bridge Adapter Decorator Composite\
-           Flyweight Facade Proxy Template Strategy State Observer Memento Mediator Command
+           Flyweight Facade Proxy Template Strategy State Observer Memento Mediator Command\
+		   Visitor
 
 out_dir := bin
 target  := $(addprefix $(out_dir)/,$(target))

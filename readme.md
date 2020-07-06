@@ -27,7 +27,7 @@ ref: K_Eckel - 《C++设计模式》
 - [x] Memento 模式
 - [x] Mediator 模式
 - [x] Command 模式
-- [ ] Visitor 模式
+- [x] Visitor 模式
 - [ ] Chain of Responsibility 模式
 - [ ] Iterator 模式
 - [ ] Interpreter 模式
